@@ -1,4 +1,4 @@
 othello
 =======
 
-A first cut for othello game
+A first (partial) attempt at the game othello
